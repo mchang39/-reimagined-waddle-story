@@ -1,2 +1,2 @@
-# -reimagined-waddle-story
+# reimagined-waddle-story
 cs400
